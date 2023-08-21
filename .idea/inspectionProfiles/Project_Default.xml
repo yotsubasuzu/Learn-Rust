@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="odoo._" />
+          <option value="odoo.addons.sale_aluminum_extrusion.models.sale_order_line.re" />
+          <option value="sale.order.line.report._get_report_data" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
